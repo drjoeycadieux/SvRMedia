@@ -33,7 +33,7 @@ export default {
       Converter
     </h1>
     <br>
-    <input type="number" :value="c" @change="setC"> Celsius =
+    <input type="number" :value="c" @change="setC"> Celsius 
     <input type="number" :value="f" @change="setF"> Fahrenheit
   </div>
 </template>
